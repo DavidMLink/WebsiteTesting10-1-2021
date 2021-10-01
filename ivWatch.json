@@ -1,0 +1,206 @@
+[
+    {
+      "Origin": "/accessories",
+      "Target": "/sensors-and-accessories/"
+    },
+    {
+      "Origin": "/2017/09/29/in-the-news-10",
+      "Target": "/2017/09/29/mass_device_covers_ivwatch_deal_with_terumo/"
+    },
+    {
+      "Origin": "/2017/05/25/in-the-news",
+      "Target": "/2017/05/25/ivwatch_oem_medical_design_outsourcing/"
+    },
+    {
+      "Origin": "/2017/05/02/ivwatch_covered_in_mddi_2017_medical_design_excellence",
+      "Target": "/2017/05/02/ivwatch_mddi_2017_medical_design_excellence/"
+    },
+    {
+      "Origin": "/2017/05/01/ivwatch-honored-as-finalist-in-the-2017-medical-design-excellence-awards-mdea",
+      "Target": "/2017/05/01/ivwatch-finalist-2017-medical-design-excellence-awards-mdea/"
+    },
+    {
+      "Origin": "/2017/01/05/ivwatch-receives-fda-510-k-clearance-to-significantly-advance-the-safety-of-iv-therapy-for-pediatric-patients",
+      "Target": "/2017/01/05/ivwatch_fda510k_clearance_peds/"
+    },
+    {
+      "Origin": "/cost-accountant-analyst",
+      "Target": "/careers/cost-accountant-analyst/"
+    },
+    {
+      "Origin": "/engineering-product-manager",
+      "Target": "/careers/engineering-product-manager/"
+    },
+    {
+      "Origin": "/quality-technician",
+      "Target": "/careers/quality-technician/"
+    },
+    {
+      "Origin": "/category/[a-z0-9\\-]+/",
+      "Target": "/media/"
+    },
+    {
+      "Origin": "/tag/[a-z0-9\\-]+/",
+      "Target": "/media/"
+    },
+    {
+      "Origin": "/about-us",
+      "Target": "/about/"
+    },
+    {
+      "Origin": "/about-us/careers",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/about-us/our-culture",
+      "Target": "/about/"
+    },
+    {
+      "Origin": "/about-us/partnerships",
+      "Target": "/about/"
+    },
+    {
+      "Origin": "/the-facts",
+      "Target": "/evidence/"
+    },
+    {
+      "Origin": "/glossary/[a-z0-9\\-]+/",
+      "Target": "/myiv/glossary/"
+    },
+    {
+      "Origin": "/news-and-media",
+      "Target": "/media/"
+    },
+    {
+      "Origin": "/how-it-works",
+      "Target": "/products/"
+    },
+    {
+      "Origin": "/glossary",
+      "Target": "/myiv/glossary/"
+    },
+    {
+      "Origin": "/events",
+      "Target": "/media/"
+    },
+    {
+      "Origin": "/author/[a-z0-9\\-]+/",
+      "Target": "/media/"
+    },
+    {
+      "Origin": "/med-surg",
+      "Target": "/specialties/"
+    },
+    {
+      "Origin": "/wp-content/uploads/2017/12/ivWatch-MedSurg-Brochure.pdf",
+      "Target": "/specialties/"
+    },
+    {
+      "Origin": "/wp-content/uploads/2018/05/ivWatch-Vizient-MedSurg-Brochure.pdf",
+      "Target": "/specialties/"
+    },
+    {
+      "Origin": "/or-anesthesia",
+      "Target": "/specialties/"
+    },
+    {
+      "Origin": "/pediatrics",
+      "Target": "/specialties/"
+    },
+    {
+      "Origin": "/wp-content/uploads/2020/02/ivWatch-Signature.png",
+      "Target": "/wp-content/uploads/2020/07/ivWatch-Signature.png"
+    },
+    {
+      "Origin": "/whitepaperform",
+      "Target": "/evidence/"
+    },
+    {
+      "Origin": "/order-sales-support",
+      "Target": "/how-to-buy/"
+    },
+    {
+      "Origin": "/project",
+      "Target": "/"
+    },
+    {
+      "Origin": "/feed",
+      "Target": "/"
+    },
+    {
+      "Origin": "/comments/feed",
+      "Target": "/"
+    },
+    {
+      "Origin": "/embedded-software-engineer",
+      "Target": "/careers/embedded-software-engineer/"
+    },
+    {
+      "Origin": "/careers/cost-accountant-analyst",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/wp-content/uploads/2020/10/ivWatch_SmartTouch_Sensor_Brochure_DM-1002023_Rev01.pdf",
+      "Target": "/wp-content/uploads/2020/11/ivWatch_SmartTouch_Brochure_Reduced_DM-1002023-Rev01.pdf"
+    },
+    {
+      "Origin": "/careers/account-manager-southeast",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/account-manager-midwest",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/embedded-software-engineer",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/2021/01/21/29032",
+      "Target": "/2021/01/21/expanding-the-limits-of-iv-site-monitoring-ivwatch-secures-four-new-patents-globally/"
+    },
+    {
+      "Origin": "/careers/account-manager-west",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/material-handler-truck-driver",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/delta-operator",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/packaging-specialist",
+      "Target": "/careers/packaging-specialist/"
+    },
+    {
+      "Origin": "/blox",
+      "Target": "https://blox.ivwatch.com"
+    },
+    {
+      "Origin": "/careers/it-specialist",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/quality-assurance-specialist",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/converting-machine-operator",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/careers/web-developer",
+      "Target": "/careers/"
+    },
+    {
+      "Origin": "/key-account-executive-east",
+      "Target": "/careers/key-account-executive-east/"
+    },
+    {
+      "Origin": "/webinar-registration",
+      "Target": "/webinar/"
+    }
+   ]

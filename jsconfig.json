@@ -1,0 +1,9 @@
+{
+    "include": [
+     "test/specs/*.js",
+      "**/*.json",
+      // "data/redirects/*.json",
+    //   "node_modules/@wdio/sync",
+      "node_modules/@wdio/mocha-framework"
+    ]
+  }

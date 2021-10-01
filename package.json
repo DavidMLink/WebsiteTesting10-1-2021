@@ -1,0 +1,32 @@
+{
+  "name": "WebsiteTestingivWatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "npx wdio run wdio.conf.js",
+    "pagesSpec": "npx wdio run wdio.conf.js --spec testingPages.js",
+    "seeder": "node seeder.js",
+    "report": "allure generate ./allure-results --clean && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.11.0",
+    "@wdio/cli": "^6.12.1",
+    "@wdio/firefox-profile-service": "^6.10.6",
+    "@wdio/local-runner": "^6.12.1",
+    "@wdio/mocha-framework": "^6.11.0",
+    "@wdio/spec-reporter": "^6.11.0",
+    "chai": "^4.3.4",
+    "chromedriver": "^92.0.1",
+    "json-concat": "0.0.1",
+    "wdio-chromedriver-service": "^6.0.4",
+    "wdio-image-comparison-service": "^3.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
